@@ -1,6 +1,6 @@
 # Go.Leetcode
 
-### This repository contains all my completed katas on [Leetcode](https://www.codewars.com/kata/search/go?q=&r%5B%5D=-8&beta=false&order_by=popularity%20desc).
+### This repository contains all my completed katas on [Leetcode](https://leetcode.com/problemset/)
 # [![]([https://www.codewars.com/users/despxx/badges/large])](https://www.codewars.com/users/despxx)
 
 ### Navigation
