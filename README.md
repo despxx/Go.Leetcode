@@ -1,7 +1,7 @@
 # Go.Leetcode
 
 ### This repository contains all my completed katas on [Leetcode](https://leetcode.com/problemset/)
-# [![]despx](https://leetcode.com/u/despxx/)
+### [despx](https://leetcode.com/u/despxx/)
 
 ### Navigation
 ›› ‎[8 KYU](https://github.com/despxx/goCodewars/blob/main/8kyu_Codewars.go)
